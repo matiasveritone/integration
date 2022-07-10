@@ -42,7 +42,7 @@ try {
         console.log("\nTDO id: ", tdoID);
 
 
-
+        tdoID = "2131536196"
         // get assets from TDO
         console.log("\nGetting assets from TDO id: ", tdoID)
 
